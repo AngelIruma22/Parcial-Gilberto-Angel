@@ -1,0 +1,90 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+    margin: 0px;
+}
+
+
+.Logo{
+    color: brown;
+    text-transform: uppercase;
+    position: relative;
+    left: 12%;
+    font-size: 38px;
+    letter-spacing: 5px;
+    margin-bottom: 0px;
+}
+.CajaDeMenu{
+    position: relative;
+    left: 65%;
+}
+
+nav {
+    clear: both;
+}
+
+nav ul{
+    list-style-type: none;
+}
+nav li{
+    font-size: 20px;
+}
+
+.Menu{
+    float: left;
+    margin-bottom: 15px;
+}
+.Menu a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    padding: 20px;
+    font-weight: 600;
+}
+.Titulop{
+    position: relative;
+   
+}
+
+.Cosas{
+    display: inline-block !important;
+    text-align: center;
+    width: 100%;
+    padding: 15px;
+    font-size: 0.875rem;
+
+    background-color: rgb(4, 4, 161);
+}
+.banner{
+    position: relative;
+    width: 100%;
+}
+.Auto{
+    width: 100%;
+}
+
+.Catalogo h1{
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
+.Catalogo{
+    position: relative;
+    margin: -6px 6px 6px -6px;
+    left: 20%;
+    width: 55%;
+    padding: 20px;
+}
+
+.Catalogo div img{
+   text-align: center;
+    padding: 82px;
+    width: 20%;
+    height: 20%;
+}
+footer{
+    background-color: rgb(4, 4, 161);
+    padding: 3%;
+    text-align: center;
+}

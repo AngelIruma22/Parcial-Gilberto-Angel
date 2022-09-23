@@ -1,0 +1,52 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+nav{
+    clear:both ;
+}
+
+nav ul{
+    position: absolute;
+    left: 60%;
+    top: 10%;
+    list-style-type: none;
+}
+.Menu{
+    float: left;
+    margin-bottom: 15px;
+}
+.Menu{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    padding: 20px;
+    font-weight: 600;
+}
+.Titulop{
+    position: absolute;
+    left: 12%;
+}
+.Logo{
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+.tituloform{
+    position: relative;
+    color: brown;
+}
+.FormularioXD{
+    position: absolute;
+    top: 30%;
+}
+.Form{
+    font-size: 20px;
+    color: brown;
+}
+.SobreN{
+    position: absolute;
+    top: 30%;
+}
+.TITULO2{
+    color:brown;
+}
